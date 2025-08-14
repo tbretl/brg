@@ -34,7 +34,7 @@ params:
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -120,3 +120,6 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+titleCaseStyle: 'none'
+enableGitInfo: true
