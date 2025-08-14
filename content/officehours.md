@@ -1,20 +1,19 @@
 ---
 title: "Office Hours"
-date: 2024-05-08
 hidemeta: true
-description: "Schedule and location for Professor Dr von Igelfeld's office hours."
+description: "Schedule and location for Professor Bretl's office hours."
 ---
 
 --- 
 #### Schedule
 
-Office hours take place on Wednesday at 10am.
+TBD
 
 ---
 
 #### Location
 
-By default meetings are in my office. I am also available for virtual meetings on Zoom.
+By default, meetings are in my office. I am also available for virtual meetings on Zoom.
 
 ---
 
