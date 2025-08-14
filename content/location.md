@@ -1,8 +1,8 @@
 ---
 title: "Location"
-date: 2024-05-08
+date: 2025-08-14
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Professor Bretl's mailing and office addresses at the University of Illinois Urbana-Champaign."
 
 ---
 
@@ -10,18 +10,17 @@ description: "Professor Dr von Igelfeld's mailing and office addresses at the In
 
 #### Mailing address
 
-Professor Dr von Igelfeld  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
+Professor Timothy Bretl
+104 South Wright Street
+Urbana, IL 61801
 
 ---
 
 #### Office address
 
-Room 133  
-Institute of Romance Philology  
-University of Regensburg
+319G Talbot Laboratory
+Department of Aerospace Engineering
+University of Illinois at Urbana-Champaign
 
 ---
 

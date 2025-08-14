@@ -1,4 +1,4 @@
-baseURL: "https://tbretl.github.io/brg" 
+baseURL: "https://bretl.csl.illinois.edu/"
 title: Timothy Bretl
 theme: PaperMod
 
@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Professor Timothy Bretl
           subtitle: "I am a Professor of Aerospace Engineering at the University of Illinois Urbana-Champaign. The focus of my research is robotics and I teach courses in the area of dynamics and control."
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture-bretl.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -77,11 +77,11 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cv-bretl.pdf
         - name: Email
           url: mailto:tbretl@illinois.edu
         - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: https://illinois.zoom.us/my/timothybretl
         - name: Location
           url: location/
         - name: Office Hours
