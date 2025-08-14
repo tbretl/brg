@@ -60,20 +60,20 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            # - name: Papers
+            #   url: papers/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Courses
+            #   url: courses/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
@@ -87,17 +87,13 @@ params:
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=ab_0lGcAAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/tbretl
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://www.youtube.com/watch?v=Psbr1rlyU-U
         - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://x.com/timothybretl
 
     assets:
         disableScrollBarStyle: true
